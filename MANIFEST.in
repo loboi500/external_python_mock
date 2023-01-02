@@ -1,2 +1,3 @@
-include LICENSE.txt
-include *.rst
+version https://git-lfs.github.com/spec/v1
+oid sha256:50483a07eef73f1e0978dfed911873a5da23d8058bf8383aca895b574c53b386
+size 34
